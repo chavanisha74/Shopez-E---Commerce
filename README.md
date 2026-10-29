@@ -4,6 +4,13 @@ SHOPEZ is an enterprise-grade, modern, and responsive full-stack MERN (MongoDB, 
 
 ---
 
+## 🎥 Project Demo Video
+
+Watch the full platform walkthrough and feature demonstration:  
+🔗 **[Watch SHOPEZ Demo Video on Google Drive](https://drive.google.com/drive/folders/1IAlheERkW653Iw2Xc_t2WjjXHYT3qf15?usp=drive_link)**
+
+---
+
 ## 🌟 Key Application Features
 
 ### 👤 Customer-Facing Experience
@@ -129,7 +136,13 @@ npm run seed
 ```
 
 ### 4. Running the Application
-Open two terminal windows:
+
+**Quick Start (Both Server & Client concurrently):**
+```bash
+npm run dev
+```
+
+Or run them individually in separate terminals:
 
 **Terminal 1 — Backend API:**
 ```bash
